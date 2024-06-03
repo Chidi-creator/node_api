@@ -224,3 +224,4 @@
 20240603	17:04:21	5e50fd8d-b11d-4b28-a3a0-fbcb172a63b7	PATCH	undefined	/employees/username/665dd85e774c2b40e90b444d
 20240603	17:10:52	1a15171c-72ff-4009-9a09-bb8513274bcc	GET	undefined	/logout/
 20240603	17:10:59	4a500a70-ff49-44c6-98f8-8eab37cf7318	GET	undefined	/refresh/
+20240603	18:04:03	67686da0-0279-4c5d-9c18-26336c71d187	POST	undefined	/auth/
