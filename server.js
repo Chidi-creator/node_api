@@ -1,5 +1,6 @@
 const path = require("path");
 const cors = require("cors");
+const corsOptions = require('./config/corsOption')
 const { logger } = require("./middleware/logEvents");
 const appRoutes = require("./routes/subdir");
 const employeeRoutes = require("./routes/api/employees");
@@ -27,7 +28,7 @@ app.use(logger);
 app.use(credentials);
 
 //cross origin resource sharing
-app.use(cors());
+app.use(cors(corsOptions));
 
 app.use(express.urlencoded({ extended: false }));
 

@@ -225,3 +225,4 @@
 20240603	17:10:52	1a15171c-72ff-4009-9a09-bb8513274bcc	GET	undefined	/logout/
 20240603	17:10:59	4a500a70-ff49-44c6-98f8-8eab37cf7318	GET	undefined	/refresh/
 20240603	18:04:03	67686da0-0279-4c5d-9c18-26336c71d187	POST	undefined	/auth/
+20240608	12:32:51	4b5afcee-5321-41a3-bdcc-3e38f64434fa	OPTIONS	http://localhost:5173	/register
